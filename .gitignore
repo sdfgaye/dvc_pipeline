@@ -1,0 +1,5 @@
+logs/
+.dvc/
+__pycache__/
+cache/
+mvenv/
